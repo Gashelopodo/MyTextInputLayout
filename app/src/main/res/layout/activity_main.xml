@@ -46,5 +46,12 @@
         android:layout_below="@+id/tilPhone"
         android:text="ACEPTAR"/>
 
+    <Button
+        android:id="@+id/cleanInputs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myButton"
+        android:text="LIMPIAR"/>
+
 
 </RelativeLayout>
